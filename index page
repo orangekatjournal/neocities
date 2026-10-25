@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<title> ੈ✩‧₊˚kat's digital journal˚₊‧✩。.</title>
+<meta charset="utf-8">
+
+<style>
+body {
+  background-color: white;
+  background: url("/backgrounds/sparklestars.gif") repeat;
+}
+
+.container {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+  grid-template-columns: 1fr 3fr;
+  gap: 3px;
+  padding: 10px;
+  width: 950px;  
+  margin: auto;
+  border-radius: 25px;
+}
+
+.container div {
+
+  padding: 30px;
+}
+
+.container div.header {
+  grid-area: header;
+  background: url("/backgrounds/celestialbackground.jpeg") repeat;
+  text-align: center;
+  font-size: 25px;
+  border-radius: 25px 25px 0px 0px;
+  border-style: dotted;
+  border-width: thin;
+  border-color: white;
+}
+
+.container div.menu {
+  grid-area: menu;
+  background: url("/backgrounds/celestialbackground.jpeg") repeat;
+  height: 830px;
+  width: 210px;
+  padding: 15px;
+  margin: auto;
+  border-style: dotted;
+  border-width: thin;
+  border-color: white;
+  background-color: white;
+}
+
+.container div.content {
+  grid-area: content;
+  background: url("backgrounds/paperbackground.gif") repeat;
+  background-color: white;
+  border-style: dotted;
+  border-width: thin;
+  border-color: white;
+  height: 800px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  font-family: 'Courier New', monospace;
+}
+
+.container div.footer {
+  grid-area: footer;
+  background: url("/backgrounds/celestialbackground.jpeg") repeat;
+  text-align: center;  
+  border-style: dotted;
+  border-width: thin;
+  border-color: white;
+  padding: 0px;
+  height: 110px;
+  border-radius: 0px 0px 25px 25px;
+}
+
+.blog {
+  background: url("") repeat;
+  text-align: justify;
+  text-justify: inter-word;
+   margin-top: 10px;
+   margin-left: 10px;
+   width: 560px;
+   border-radius: 0px;
+   border-style: hidden;
+   border-width: thin;
+   border-color: white;
+}
+
+
+
+.border {
+border-width: 7px;
+border-style: solid;
+border-image: url("images/imageborder.png") 7 fill round;       
+}
+
+h2 {
+  color: maroon;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+
+h3 {
+  color: maroon;
+  text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.img-hover-zoom {
+	--scale: 1;
+	--transition-duration: 250ms;
+	scale: var(--scale);
+	transition:
+		scale 
+		var(--transition-duration) 
+		ease-in-out;
+}
+
+.img-hover-zoom:hover {
+	--scale: 1.1;
+}
+
+  .scripted {
+  filter: drop-shadow( 0 3px maroon) drop-shadow( 2px 0 maroon) drop-shadow( 0 -1px #ffa9c2) drop-shadow( -1px 0 maroon) drop-shadow( 0 5px white) drop-shadow( 5px 0 white) drop-shadow( 0 -5px white) drop-shadow( -5px 0 white) drop-shadow(1px 1px 0 rgba(172,172,172,0.6)) drop-shadow(1px 1px 0 rgba(172,172,172,0.6)) drop-shadow( 0 0 2px #424242);
+  color:#cf6932;
+  font-family: ecoder;
+    font-size:1.75rem;
+ } 
+ 
+  @font-face { 
+    font-family: ecoder;
+    src: url(https://dl.dropbox.com/s/2wrgv8i3jsqkv6p/Ecoder-Italic.otf);
+  }
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #ffffff #a24015;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #a24015;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border: 3px solid #ffffff;
+  }
+  
+  	  #hoohoo {
+	    border: 1px hidden;
+	    font-size: 13px;
+	    white-space: nowrap;
+	    padding: 5px;
+	    box-sizing: border-box;
+	    height: 150px;
+	    width: 635px;
+
+	  }
+
+	  .lala {
+	    width: 245px;
+	    background: url("images/postit.png");
+	    background-size: 325px;
+      background-repeat: no-repeat;
+	    overflow-y:scroll;
+	    overflow-x:hidden;
+	    border: 1px hidden;
+	    white-space: normal;
+	    display: inline-block;
+	    height: 140px;
+	    padding: 50px;
+	    vertical-align: middle;
+	    -ms-overflow-style: none;  /* IE and Edge */
+      scrollbar-width: none;  /* Firefox */
+	  }
+	  
+	  /* Hide scrollbar for Chrome, Safari and Opera */
+    .lala::-webkit-scrollbar {
+      display: none;
+    }
+
+
+  
+</style>
+
+<body>
+
+<div class="container">
+
+<div class="header"><br><br><p class="scripted">ੈ✩‧₊˚Kat's digital journal⸂⸜(രᴗര๑)⸝⸃˚₊‧✩。.<p>
+<br>
+<a href="https://orangekat.neocities.org/about"><img class="img-hover-zoom" src="navigation/navABOUT.gif"></a>
+<a href="https://orangekat.neocities.org/gallery"><img class="img-hover-zoom" src="navigation/hoverWORKS.gif"></a>
+<a href="https://orangekat.neocities.org/books"> <img class="img-hover-zoom" src="navigation/navNOVEL.gif"></a>
+<a href="https://orangekat.neocities.org/chat"><img class="img-hover-zoom" src="navigation/hoverCHAT.gif"></a>
+<a href="https://orangekat.neocities.org/love"><img class="img-hover-zoom" src="navigation/hoverLOVE.gif"></a>
+<a href="https://orangekat.neocities.org/memo"><img class="img-hover-zoom" src="navigation/navMEMO.gif"></a>
+<a href="https://orangekat.neocities.org/thanks"><img class="img-hover-zoom" src="navigation/hoverTHANKS.gif"></a></div>
+
+<div class="menu">
+<br>
+<center><a href="https://orangekat.neocities.org/gallery"><img class="border img-hover-zoom" width="165px" src="images/fallenicon2.png"></a></center>
+<br>
+<font size="2"><h2>Hello! Welcome to my digital journal. I like <a href="https://orangekat.neocities.org/gallery">drawing</a>, <a href="https://orangekat.neocities.org/books">reading</a>, mbti, and studying Japanese. My favorite band is My Chemical Romance and I love Demon Slayer.
+<br><br><img src="/images/star1divider.gif" width="200">
+<br><br><a href="brain.html"><img class="img-hover-zoom" src="images/brain.gif" align="right" width="60"></a>
+Click the skull to learn about the brain. Amaze, amaze, amaze!</h2></font>
+<img src="/images/star1divider.gif" width="200">
+<h2>update log</h2>
+<div style="width:200px;height:100px;line-height:1em;overflow-y: scroll; overflow-x:hidden;;padding:2px;background-color:#FCFADD;color:#714D03;border:4px double #DEBB07;">
+<font size="2">✩ 26/10/14 blog directory
+<br>✩ 26/10/14 added <a href="https://orangekat.neocities.org/karaoke">karaoke page</a>
+<br>✩ 26/09/21 added <a href="https://orangekat.neocities.org/tech">tech page</a>
+<br>✩ 26/09/19 edited <a href="https://orangekat.neocities.org/album">the mcr page</a>
+<br>✩ 26/09/20 added a <a href="https://orangekatart.atabook.org/">guestbook</a>
+<br>✩ 26/09/20 edited blog layout
+<br>✩ 26/09/19 added a brain page
+</font>
+</div>
+<br>
+<img src="/images/star1divider.gif" width="200">
+<br><br>
+<center>
+<a href="https://pixelsafari.neocities.org/buttons/"><img src="images/computer_pixelsafari.gif"></a>
+<a href="https://pixelsafari.neocities.org/buttons/"><img src="images/notepad++_pixelsafari.png"></a>
+</center>
+</div>
+
+<div class="content">
+ <a target="_blank" href="https://orangekat.neocities.org/tech"><img class="img-hover-zoom" align="right" width="250" style="margin: 20px;" src="tech/3ds.png"></a><br>    
+    <img src="images/latest1.png">
+<div id="hoohoo">
+	  <div class="lala">
+      <center><b><u>2026</u></b>
+      <br>✩ sep 19 <a href="https://orangekat.neocities.org/artistalley">artist alley</a>
+      <br>✩ sep 12 <a href="https://orangekat.neocities.org/winamp">winamp!</a>
+      <br>✩ jan 08 <a href="https://orangekat.neocities.org/hello2026">hello 2026</a>
+      <br><br>
+      <b><u>2025</u></b>
+      <br>✩ oct 25 <a href="https://orangekat.neocities.org/konoha">returning to konoha</a>
+      <br>✩ oct 19 <a href="https://orangekat.neocities.org/redosite">re-doing the site</a>
+      </center>
+      </div>
+     <div class="lala">  
+      <center>
+      <img src="images/shrines.png">
+      <br>✩ <a href="https://orangekat.neocities.org/tech">intentional tech use</a>
+      <br>✩ <a href="https://orangekat.neocities.org/karaoke">karaoke</a>
+      <br>✩ <a href="https://orangekat.neocities.org/album">my chemical romance</a>
+    </center>
+      </div>
+        </div>
+     
+     <div class="blog">
+	  <br>
+	<h3>intentional tech use pt. 3</h3>   
+	<h5>2026/10/21</h5>
+	<p class="big">
+	My husband and I bought a secondhand <b>PS4</b> at the beginning of this year. We've used it to play Wipeout games (a classic series from when we younger) and Nier: Automata. 
+	The PS4 has, however, mainly been used as a DVD and Blu-ray player! I've had a small movie collection for years, and I try to expand it whenever I go to thrift shops. My latest expansion was the entire Twilight series. :-)
+	<br><br>
+	At some point, streaming services started feeling like a form of mindless scrolling because of the sheer amount of options available. 
+	There will always be the feeling of "maybe there's another show or movie that I could check out", cutting your attention span down even further, because there's no need to try and power through your current choice, 
+	waiting for it to get good, when you could easily switch to something else. It started reminding me of mindless phone scrolling when I started noticing how long I had remained on the main menu, 
+	with the growing agitation of decision paralysis <a href="https://orangekat.neocities.org/tech">...Read more</a>
+	<br><br>
+	 
+	 </p>
+	</div>
+
+</div>
+
+<div class="footer">
+<br>
+<marquee width="100%" direction="right" height="100">
+<img src="images/msnbygraphic.gif" height="60"><img src="/images/mspaintbygraphic.png" height="60"><img src="images/winampgraphic.png" height="60">
+<a href="https://hillhouse.neocities.org/materials/graphics/" target="_blank"><img src="images/pacificrim2.gif"></a>
+<a href="https://hillhouse.neocities.org/materials/graphics/" target="_blank"><img src="images/pacificrim3.gif"></a>
+<a href="https://hillhouse.neocities.org/materials/graphics/" target="_blank"><img src="images/pacificrim1.gif"></a>
+<a href="https://planity.neocities.org/goodies" target="_blank"><img src="images/kuromi_planity.png"></a>
+<a href="https://planity.neocities.org/goodies" target="_blank"><img src="images/nekoatsume_planity.png"></a>
+<a href="https://planity.neocities.org/goodies" target="_blank"><img src="images/yotsuba_planity.jpg"></a>
+<a href="https://renyoi.neocities.org/" target="_blank"><img src="images/3ds_renyoi.gif"></a>
+<a href="https://y2k.neocities.org/stamps" target="_blank"><img src="images/90s_y2k.gif"></a>
+<a href="https://y2k.neocities.org/stamps" target="_blank"><img src="images/carebear_y2k.png"></a>
+<a href="https://y2k.neocities.org/stamps" target="_blank"><img src="images/emoji_y2k.png"></a>
+<a href="https://y2k.neocities.org/stamps" target="_blank"><img src="images/oldweb_y2k.png"></a>
+<a href="https://neronicweb.neocities.org/" target="_blank"><img src="images/herewego_neronicweb.png"></a>
+<a href="https://neronicweb.neocities.org/" target="_blank"><img src="images/sideye_neronicweb.png"></a>
+<a href="https://neronicweb.neocities.org/" target="_blank"><img src="images/sunflower_neronicweb.png"></a>
+<a href="https://neronicweb.neocities.org/" target="_blank"><img src="images/stars_neronicweb.png"></a>
+<a href="https://pixelsafari.neocities.org/stamps/"><img src="images/paper_pixelsafari.gif"></a>
+</marquee>
+
+</div>
+
+</div>
+</body>
+
+</html>
