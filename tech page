@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html>
+<html lang="en">
+<head>
+<title> ੈ✩‧₊˚intentional tech use˚₊‧✩。.</title>
+<meta charset="utf-8">
+
+<style>
+body {
+  background-color: #f4f4f6;
+}
+
+.container {
+  display: grid;
+  grid-template-areas:
+    "header header"
+    "menu content"
+    "footer footer";
+  grid-template-columns: 1fr 3fr;
+  gap: 3px;
+  background: url("backgrounds/parchmentpaper_picryl.jpg");
+  padding: 10px;
+  width: 745px;
+  height: 1000px;
+  margin: auto;
+  border-radius: 25px;
+}
+
+.container div {
+
+  padding: 5px;
+}
+
+.container div.content {
+  grid-area: content;
+  height: 900px;
+  width: 650px;
+  margin-right: 30px;
+  overflow-x: hidden;
+  overflow-y: scroll;
+  font-family: 'Georgia', monospace;
+  text-align: justify;
+  padding: 15px;
+}
+
+/* ===== Scrollbar CSS ===== */
+  /* Firefox */
+  * {
+    scrollbar-width: thin;
+    scrollbar-color: #BDB7A6 #DBD0B2;
+  }
+
+  /* Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 16px;
+  }
+
+  *::-webkit-scrollbar-track {
+    background: #DBD0B2;
+  }
+
+  *::-webkit-scrollbar-thumb {
+    background-color: #DBD0B2;
+    border-radius: 10px;
+    border: 3px solid #DBD0B2;
+  }
+
+p.big {
+  line-height: 1.5;
+}
+
+.img-hover-zoom {
+	--scale: 1;
+	--transition-duration: 250ms;
+	scale: var(--scale);
+	transition:
+		scale 
+		var(--transition-duration) 
+		ease-in-out;
+}
+
+.img-hover-zoom:hover {
+	--scale: 1.1;
+}
+
+</style>
+  </head>
+  
+  <body>
+  
+  <div class="container">
+
+  <div class="content">
+<br>
+<img src="tech/techblogpost.png">
+      <h5>Latest update: 2026/10/21 (scroll down for pt. 3)</h5>
+      <h5>pt. 1 - 2026/09/20</h5><a target="_blank" href="tech/3ds.png"><img class="img-hover-zoom" align="right" width="200" style="margin: 20px;" src="tech/3ds.png"></a>
+      <p class="big">A blog post of appreciation turned shrine for the tech that I've been using that has decreased my smartphone usage to 2-3 hours per day. <br><br>
+	  I got my <b>3DS XL</b> in 2012 as a Xmas gift from my family. 13 years later, it still works perfectly! 
+	  Granted, I did leave it unused for a few years, which probably added to the longevity of the battery. Anyhow, ever since I modded it I've been using it a lot. 
+	  The modding community is extremely kind and helpful! My current most played games are <i>Animal Crossing: New Leaf</i> (my village is 12 years old; I'm playing this one on an actual cartridge), 
+	  <i>Tomodachi Life</i>, and <i>Style Savvy: Fashion Forward</i>. I recently got 2 StreetPasses IRL, which was a treat. :-)
+	  <br><br>
+	  
+	  <a target="_blank" href="tech/sharp.png"><img class="img-hover-zoom" align="left" width="200" style="margin: 20px;" src="tech/sharp.png"></a>
+	  I bought my <b>Sharp Aquos Keitai 4 A205SH</b> in September 2025 (second-hand!), which means that I've used it for about a year now. I LOVE IT - 
+	  I've become absolutely sick of the boring designs of modern smartphones and how they suck the time and life out of people. I deleted Snapchat, Instagram, and TikTok off my phone, leaving only YouTube which
+	  I mainly use to watch longform videos, especially in the mornings when I get ready for work. 
+	  
+	  <br><br>My Shorts algorithm is complete crap, which is great, because that means I don't get stuck scrolling. 
+	  I only check Instagram on my PC, and I have TikTok on my PC but never check it anymore. Snapchat has pissed me off for a long time so I've pretty much stopped using that, too, except for a monthly check
+	  because some of my closest friends still occasionally send snaps. 
+	  <br><br>
+	  I use WhatsApp on my flip phone. Calling and texting also works. I still bring my smartphone with me most of the time, because of Google Maps, Messenger (unfortunately unreliable on the flip phone), transport, and Find My.
+	  Dreaming of one day replacing my smartphone with something like the Commodore Callback 8020. It's almost as cute as my Sharp Aquos. 
+	  <br><br>
+	 
+	 <a target="_blank" href="tech/y1.png"><img class="img-hover-zoom" align="right" width="200" style="margin: 20px;" src="tech/y1.png"></a>
+	Got an <b>Innioasis Y1</b>. Cancelled my Spotify subscription shortly after. Love it, I'm enjoying music even more than I used to. Appreciating the songs
+	 that I've intentionally selected for my collection. I also got a CD player and have been more actively thrifting CDs to add to my original collection of a bunch of Arashi CDs, some MCR, and Mitski.
+	 I got so sick of algorithms, even the one on Spotify. 
+	 <br>
+	 <br>
+	<a target="_blank" href="tech/camera.png"><img class="img-hover-zoom" align="left" width="200" style="margin: 20px;" src="tech/camera.png"></a>
+	Last but not least, my little digital camera, the <b>Casio Exilim EX-X8</b> with a whopping 8.1 mega pixels. :-) I bought it second-hand and refurbished in January 2025.
+	I've since brought it on a bunch of trips and printed out lots of pictures. What's the point of taking hundreds or thousands of high definition pictures
+	on our smartphones just to never look at them again? Unless yet another algorithm reminds us to take a look at An Old Memory From Three Years Ago, and we 
+	become reliant on that feature, instead of actively making the choice to consistently revisit those moments. 
+	<br><br>
+	At the risk of sounding like A Hater Doomer (which I am sometimes), I also want to mention that I do think modern technology is incredible, lots of useful
+	inventions have been made, being able to videocall my elderly parents and them easily being able to use their smartphones is fantastic, my partner knowing that I'm 
+	safe thanks to Find My is invaluable. I'm just hating on the features that rob me and others of our agency, attention spans, and precious time. Good thing there are ways to circumvent this. Yay! >:-)</p>
+	<br>
+<h5>pt. 2 - 2026/10/15</h5>
+	<p class="big">
+	I have a thrifted <b>Casio LB316 wristwatch</b>. It's most likely from the 80s, it looks great and still works. No need to rely on my smartphone or even my flip phone to check the time and risk tapping on a bunch of apps that I didn't want to check to begin with. I also got a delightful human interaction out of it when the same kind person who switched the wristwatch battery (paid service) for me also shortened the wristband for free. That was very kind! The wristwatch also works well with my jewelry stack, which is a nice bonus.
+<br><br>
+An e-reader can't beat the physical experience of reading an actual book, in my opinion, but I do like my <b>Kobo Clara HD</b>. It's convenient, has no ads unlike some other options out there, and is lightweight and compact, which makes it perfect for commuting and traveling. The built in light also makes it easy to read in bed before going to sleep. I no longer charge my phone in the bedroom. 
+
+<br><br>The e-reader is also a welcome addition for me because I try to only keep physical copies of books that I <i>really</i> love - books by my favorite authors and books that I've given 5 stars too, which in my system means "would re-read". Photo incoming of my e-reader, which looks cute thanks to the stickers and decorations. :-)
+	 </p>
+<br>
+<h5>pt. 3 - 2026/10/21</h5>
+	<p class="big">
+	My husband and I bought a secondhand <b>PS4</b> at the beginning of this year. We've used it to play Wipeout games (a classic series from when we younger) and Nier: Automata. 
+	The PS4 has, however, mainly been used as a <b>DVD</b> and <b>Blu-ray</b> player! I've had a small movie collection for years, and I try to expand it whenever I go to thrift shops. My latest expansion was the entire Twilight series. :-)
+	<br><br>
+	At some point, streaming services started feeling like a form of mindless scrolling because of the sheer amount of options available. 
+	There will always be the feeling of "maybe there's another show or movie that I could check out", cutting your attention span down even further, because there's no need to try and power through your current choice, 
+	waiting for it to get good, when you could easily switch to something else. It started reminding me of mindless phone scrolling when I started noticing how long I had remained on the main menu, 
+	with the growing agitation of decision paralysis at the back of my head. 
+	<br><br>
+	You don't have to do your own "grueling" research to find something interesting to watch, because the streaming service has top lists ready for you. You don't need agency when everything's already served to you. :-)
+	I generally do love and support ranked lists of media, and a user review system, because it's interesting to see what the masses are into - I'm part of the masses, after all! 
+	But I don't know how much thought is put into the top lists of the streaming services, and I start to doubt them when I think about how they're part of the attention economy: they have to think about what makes us want to 
+	click, and stay on their streaming service, and keep clicking. The thumbnails of the posters have to look enticing, in a CLICK ME NOW way, not in a THIS IS A GREAT PIECE OF HUMAN ART way. 
+	<br><br>
+	My brain is happy and calm when I pick a DVD from my movie shelf, when the old-school DVD menu graphics pop up, and I've decided to let the disc play until the very end. 
+	
+	 </p>
+<br>
+<a href="https://orangekat.neocities.org/"><img src="images/backbybettysgraphics.gif" alt="back button"></a>  
+</div>
+  </div>
+  
+  </body>
+</html>
