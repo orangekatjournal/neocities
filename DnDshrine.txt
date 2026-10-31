@@ -112,7 +112,7 @@ h1 {
   float: none;
   list-style: none;
   position: relative;
-  margin: 80px 0 0 10px;
+  margin: 50px 0 0 10px;
   text-align: left;
   li {
     float: left;
@@ -125,18 +125,15 @@ h1 {
   }
   label {
     display: block;
-    padding: 14px 21px;
-    border-radius: 2px 2px 0 0;
-    font-size: 20px;
+    padding: 0px 15px;
+    border-radius: 0px 0px 0 0;
+    font-size: 10px;
     font-weight: normal;
     text-transform: uppercase;
-    background: url("backgrounds/paperbackground.gif") repeat;
+    background: url("") repeat;
     cursor: pointer;
     position: relative;
     top: 4px; 
-    @include transition(all 0.2s ease-in-out);
-    &:hover {
-      background: darken($tabs-base-color, 10);
     }
   }
   .tab-content{
@@ -181,12 +178,6 @@ p.link {
     }
   }
 } 
-
-.border {
-border-width: 7px;
-border-style: solid;
-border-image: url("images/imageborder.png") 7 fill round;       
-}
 
 h2 {
   color: maroon;
@@ -247,41 +238,6 @@ h3 {
     border: 3px solid #ffffff;
   }
   
-  	  #hoohoo {
-	    border: 1px hidden;
-	    font-size: 13px;
-	    white-space: nowrap;
-	    padding: 5px;
-	    box-sizing: border-box;
-	    height: 150px;
-	    width: 635px;
-
-	  }
-
-	  .lala {
-	    width: 245px;
-	    background: url("images/postit.png");
-	    background-size: 325px;
-      background-repeat: no-repeat;
-	    overflow-y:scroll;
-	    overflow-x:hidden;
-	    border: 1px hidden;
-	    white-space: normal;
-	    display: inline-block;
-	    height: 140px;
-	    padding: 50px;
-	    vertical-align: middle;
-	    -ms-overflow-style: none;  /* IE and Edge */
-      scrollbar-width: none;  /* Firefox */
-	  }
-	  
-	  /* Hide scrollbar for Chrome, Safari and Opera */
-    .lala::-webkit-scrollbar {
-      display: none;
-    }
-
-
-  
 </style>
 
 <body>
@@ -308,7 +264,7 @@ art by me</div>
                role="tab" 
                aria-selected="true" 
                aria-controls="panel1" 
-               tabindex="0">History</label>
+               tabindex="0"><img class="border img-hover-zoom" src="DnD/about.png"></label>
         <div id="tab-content1" 
              class="tab-content" 
              role="tabpanel" 
@@ -316,7 +272,6 @@ art by me</div>
              aria-hidden="false">
           <p>
 		  
-		<h5>Updated: 2026/01/31</h5>
 On the 25th of October the DnD group that I've been part of for 7 (!!!) years had our final main campaign session. 
 <b>The Slumber Party</b> began its adventures back in 2019 when all of us were still university students. There have been lots of 
 life changes since! It started with a sticker on our DM's laptop and soon we had found enough people to kick off our DnD sessions.
@@ -324,13 +279,14 @@ life changes since! It started with a sticker on our DM's laptop and soon we had
 For a while, we were able to meet up IRL for our sessions, but when it was time for some of us to move to other cities, we continued on Discord, Roll20 and D&D Beyond. Throughout the years, we've had shorter and longer breaks between each session - D&D players will recognize the challenge of finding a suitable schedule for every party member. 
 We started as a group of 6 and later continued until "the end" as a group of 5. 
 <br><br>
-Our DM made the call (a good call, I think everyone in the party would agree) to wrap up our main campaign with one final remote session,and that any future D&D that we would play together would be IRL. We've had lots of laughs during our remote sessions, but it's not quite the same doing it online. Especially for our DM, who has to do the all of the planning. 
-Playing together IRL brings a whole nother kind of magic to the gameplay. :-) For now, we all still live a train ride away from each other, 
+Our DM made the call (a good call, I think everyone in the party would agree) to wrap up our main campaign with one final remote session, and that any future D&D that we play together would be IRL. 
+We've had lots of fun during our remote sessions, but there's a special kind of magic to playing D&D together IRL. :-) For now, we all still live a train ride away from each other, 
 which makes IRL sessions possible. We've had a couple of those in the summertime, playing hilarious oneshots and "multi-shots", and with some guest players, as well. 
 <br><br>
 Finishing the main Slumber Party campaign (with no permanent character deaths! incredible) pushed me to finally start digitalizing my D&D notes. 
-What better place than this website? :-)
-		  
+
+<br> 
+<h5 style="text-align:right;">Updated: 2026/01/31 <a href="https://orangekat.neocities.org/"><img src="images/backbybettysgraphics.gif" alt="back button"></a> </h5></align>	  
 		  </p>
         </div>
     </li>
@@ -341,13 +297,20 @@ What better place than this website? :-)
                role="tab" 
                aria-selected="false" 
                aria-controls="panel2" 
-               tabindex="0">PARTY</label>
+                tabindex="0"><img class="border img-hover-zoom" src="DnD/party.png"></label>
         <div id="tab-content2" 
              class="tab-content"
              role="tabpanel" 
              aria-labelledby="specification" 
              aria-hidden="true">
-          <p>Lilith - my tiefling wizard</p>
+          <p>
+		  <b>Dungeon Master Melv</b><br>
+		  <b>Uruz Irontusk</b> - half-orc ranger<br>
+		  <b>Kaelus Leafwalker</b> - elf druid<br>
+		  <b>Jareth Smutfoot</b> - light-foot halfling bard<br>
+		  <b>Rothomir Quiwenys</b> - half-elf paladin<br>
+		  <b>Lilith</b> - tiefling wizard <i>(my character)</i><br>
+		  </p>
         </div>
     </li>
 	
@@ -357,12 +320,12 @@ What better place than this website? :-)
                role="tab" 
                aria-selected="false" 
                aria-controls="panel3" 
-               tabindex="0">CAMPAIGN</label>
+               tabindex="0"><img class="border img-hover-zoom" src="DnD/story.png"></label>
         <div id="tab-content2" 
              class="tab-content"
              role="tabpanel" 
              aria-labelledby="specification" 
-             aria-hidden="true">
+             aria-hidden="true"> 
           <p>Session 1</p>
         </div>
     </li>	
@@ -373,8 +336,8 @@ What better place than this website? :-)
                role="tab" 
                aria-selected="false" 
                aria-controls="panel4" 
-               tabindex="0">ART</label>
-        <div id="tab-content2" 
+                tabindex="0"><img class="border img-hover-zoom" src="DnD/art.png"></label>
+        <div id="tab-content4" 
              class="tab-content"
              role="tabpanel" 
              aria-labelledby="specification" 
