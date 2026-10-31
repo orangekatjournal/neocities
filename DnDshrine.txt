@@ -286,7 +286,7 @@ which makes IRL sessions possible. We've had a couple of those in the summertime
 Finishing the main Slumber Party campaign (with no permanent character deaths! incredible) pushed me to finally start digitalizing my D&D notes. 
 
 <br> 
-<h5 style="text-align:right;">Updated: 2026/01/31 <a href="https://orangekat.neocities.org/"><img src="images/backbybettysgraphics.gif" alt="back button"></a> </h5></align>	  
+<h5 style="text-align:right;">Updated: 2026/01/31 <a href="https://orangekat.neocities.org/"><img src="images/backbybettysgraphics.gif" alt="back button"></a></h5> 
 		  </p>
         </div>
     </li>
@@ -326,12 +326,47 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
              role="tabpanel" 
              aria-labelledby="specification" 
              aria-hidden="true"> 
-          <p>Session 1</p>
+          
+          
+		<h5><b>Latest update: 2026/10/31</b> |   <i>Note: I'm jotting these notes down from my "spell book" that I've been using for DnD with very few edits. You'll notice that some entries are less detailed than others, LOL.</i></h5>
+		
+    <details class="mydetails">
+      <summary><b>Session 1 - at some point in 2019</b></summary>
+      <p>
+		  <h2>Session 1</h2>
+		  We begin in Hoopperdook in the Tinker's refuge inn. The village is powered by magic gnomes and dwarves, with weak defences. They are requesting aid against bandits. 
+		  <br><br>
+		  On our way to Mayor Lorenza's outpost in the forest in the mountains, we travel on nice-looking stone roads. We receive our quest: to find as many <b>power crystals called Orientum</b> as possible.
+		  There are human bandits around town. 
+		  <br><br>
+		  CHICKEN ATTACK! + loot: bags of orbs
+		  <br>
+		  BOSS FIGHT! + 1 piece of Ankheg armor
+		  <br>
+		  + 200 xp!
+		  <br>
+		  <br>
+		  We've now been awake for 3 hours and asleep for 8 hours. 		  
+		  </p>
+		  </details>
+
+    <details class="mydetails">
+      <summary><b>Session 2</b></summary>		  
+		  <p>		  
+		  <h2>Session 2</h2>
+		  At "the pond" (where?) our bard Jareth plays "Careless Whisper" to lure out the fish creature. We have a dance party while our ranger Uruz swims into a cave to chase a merperson.
+		  He finds a <a href="https://www.dndbeyond.com/monsters/17092-nothic?srsltid=AYCX9vL-OLVbFOTu1RoR8TKWYEedzaXaBIYFUoWkAIG6ft_zTx-nPdNB">NOTHIC</a>! We pull up the thing.
+		  <br><br>
+		  "Friends don't eat friends," someone says. My notes don't say who but it's most likely Uruz. Then we find crystals that we trade with someone for crystals. Jareth puts on "demonic shoes" that give him more stealth.
+		  We also find or receive "Hanuman monkey eggs" and find out about The Red Scars. We receive 150 gold coins after successfully scamming Lorenzia, and our paladin Rom has a breakdown because of this.   		  
+		  </p>
+		  </details>
+		  
         </div>
     </li>	
     
         <li>
-        <input type="radio" name="tabs" id="tab4" />
+        <input type="radio" name="tabs" id="tab4"/>
         <label for="tab4"
                role="tab" 
                aria-selected="false" 
@@ -342,7 +377,9 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
              role="tabpanel" 
              aria-labelledby="specification" 
              aria-hidden="true">
-          <p>Artwork</p>
+          <p>
+          Artwork
+          </p>
         </div>
     </li>	
 	
@@ -359,6 +396,3 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
 </body>
 
 </html>
-
-
-My "spell book" - where I keep all of my notes and doodles related to D&D. 
