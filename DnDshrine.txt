@@ -308,7 +308,7 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
 		  <b>Uruz Irontusk</b> - half-orc ranger<br>
 		  <b>Kaelus Leafwalker</b> - elf druid<br>
 		  <b>Jareth Smutfoot</b> - light-foot halfling bard<br>
-		  <b>Rothomir Quiwenys</b> - half-elf paladin<br>
+		  <b>Rothomir "Rom" Quiwenys</b> - half-elf paladin<br>
 		  <b>Lilith</b> - tiefling wizard <i>(my character)</i><br>
 		  </p>
         </div>
@@ -328,10 +328,10 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
              aria-hidden="true"> 
           
           
-		<h5><b>Latest update: 2026/10/31</b> |   <i>Note: I'm jotting these notes down from my "spell book" that I've been using for DnD with very few edits. You'll notice that some entries are less detailed than others, LOL.</i></h5>
+		<h5><b>Latest update: 2026/10/31</b> |   <i>Note: I'm jotting these notes down from my "spell book" that I've been using for DnD with very few edits. You'll notice that some entries are less detailed than others, LOL. There are 60 sessions in total.</i></h5>
 		
     <details class="mydetails">
-      <summary><b>Session 1 - at some point in 2019</b></summary>
+      <summary><b>Session 1 - Hoopperdook (at some point in 2019)</b></summary>
       <p>
 		  <h2>Session 1</h2>
 		  We begin in Hoopperdook in the Tinker's refuge inn. The village is powered by magic gnomes and dwarves, with weak defences. They are requesting aid against bandits. 
@@ -351,7 +351,7 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
 		  </details>
 
     <details class="mydetails">
-      <summary><b>Session 2</b></summary>		  
+      <summary><b>Session 2 - "Friends don't eat friends"</b></summary>		  
 		  <p>		  
 		  <h2>Session 2</h2>
 		  At "the pond" (where?) our bard Jareth plays "Careless Whisper" to lure out the fish creature. We have a dance party while our ranger Uruz swims into a cave to chase a merperson.
@@ -361,6 +361,46 @@ Finishing the main Slumber Party campaign (with no permanent character deaths! i
 		  We also find or receive "Hanuman monkey eggs" and find out about The Red Scars. We receive 150 gold coins after successfully scamming Lorenzia, and our paladin Rom has a breakdown because of this.   		  
 		  </p>
 		  </details>
+		  
+    <details class="mydetails">
+      <summary><b>Session 3 - SAFANA</b></summary>		  
+		  <p>		  
+		  <h2>Session 3</h2>
+		  In Hoopperdook, we visit the store of an elf alchemist who tells us to bring them creatures if we find more of them. We sell the Ankheg armor piece that we found earlier. 
+		<br><br>Later, druid Kaelus then turns into a rat to sneak into a tunnel at a tinker's place. He finds a hidden room with two doors and a trap wire. There's a mysterious room with a circle. Somewhere, a frog guard stands. My notes do not say if it is our guard or an enemy guard.
+		The circle seems to be for enchantment or transmutation.
+		<br><br>
+		We find a VERY COLD PURPLE GEM! Our tiefling Lilith casts a powerful light at some point for some reason, and Uruz stares right into it. A hostage is captured and we find out about our first major enemy, <b>SAFANA</b>.
+ 		  
+		  </p>
+		  </details>		  
+
+    <details class="mydetails">
+      <summary><b>Session 4 - Plan of darkness</b></summary>		  
+		  <p>		  
+		  <h2>Session 4</h2>
+		  We find 20-30 guards "sleeping" ("WHAT DO YOU MEAN?!"). There's also a weird, green oval. We meet <b>Safana</b>, who tells us about her PLAN OF DARKNESS!
+		  Our paladin Rom tries to convince Tirax (who was this?) to revolt. We find out about the Fae Wild, portals and Safana's revenge. We receive
+		  a parchment that will enable us to teleport to Safana. We decide to sleep right outside Safana's room. Good night, sweet prince.
+		  <br><br>
+		  Glipse (WHO?) wakes up screaming for 1 minute, looking like he's dying. All darklings are killed off.
+		  </p>
+		  </details>		
+
+<details class="mydetails">
+      <summary><b>Session 5 - The Hag Sisters</b></summary>		  
+		  <p>		  
+		  <h2>Session 5</h2>
+		  We're talking to Safana.
+		  CATALYSTS OF DARKNESS. "It's a form of exorcism". Green light refers to "Ancients". Gnome, Ghosts. Uruz approaches Safana, saying "I'm a big fan" and "The tattoo is shit!".
+		  <br><br>
+		  Moonbeam WORKS! We find scrolls with Safana's plans. Lilith finds a BRONZE FIRE CROWN!! Safana disappeared!! We also loot 2 rings, an amulet and a dagger.
+		  <br><br>
+		  Emerald Valley in the Fae Wilds. We find out more about Safana's revenge on the hag sisters Roxanne Pigtooth, Polly Twigmouth, and Zilla Forgwart. A new hag forced Safana away. Safana is a NIGHT HAG. NIGHT HAG vs. GREEN HAG.
+		  We find some information scrolls in a bag and PORTALS into the Fae Wilds and something about a Twilight Garden. +300xp.	  
+		    
+		  </p>
+		  </details>		  		  
 		  
         </div>
     </li>	
